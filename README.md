@@ -1,4 +1,4 @@
 # EBM-visualizations
 A collection of notebooks of cool EBM visualizations
 
-![](https://upload.wikimedia.org/wikipedia/commons/b/b0/EBM_small.gif)
+<img src="https://media2.giphy.com/media/tu4Ng4sSedG7hHzgl2/giphy.gif">
